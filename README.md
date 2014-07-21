@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/ruby-invoice.svg)](http://badge.fury.io/rb/ruby-invoice)
 #Ruby Invoices
 
 Ruby Invoices is a simple library that generate invoices for your business.
