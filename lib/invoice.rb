@@ -32,7 +32,7 @@ class Invoice < Prawn::Document
         render_items_table
         add_items_to_table
 
-        unless @detail_page_items.empty?
+        unless @detail_page_items.nil?
             render_detail_page
         end
 

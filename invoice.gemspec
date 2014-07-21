@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Nicolas Kipreos"]
   s.email       = 'nkipreos@gmail.com'
   s.files       = ["lib/invoice.rb"]
+  s.add_dependency "prawn", "= 1.0.0"
   s.homepage    =
     'http://github.com/nkipreos/ruby_invoices'
   s.license       = 'Beerware'
